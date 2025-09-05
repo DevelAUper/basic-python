@@ -14,8 +14,6 @@ It is tradition, when you start programming or when you start learning a new pro
 
 We will not break this tradition, and anger the programming gods, so change the code in `src/hello.py` so it prints that exact string.
 
-When you have done so, you can commit the changes to GitHub, push them, and check if the test for this exercise is now passing. You can check this either under `Actions` on the repository home page, or under the `Feedback` pull request.
-
 ## Loops
 
 ### Exercise
@@ -82,8 +80,7 @@ Write a program to construct the following pattern:
 
 (there are no spaces at the end of the lines, but there are between the `'*'`).
 
-Create a new file for it, `src/pattern.py`. On GitHub, there is a test waiting for the new Python program.
-
+Create a new file for it, `src/pattern.py`.
 ## Lists
 
 Consider a list such as this:
