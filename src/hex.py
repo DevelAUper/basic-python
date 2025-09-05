@@ -9,6 +9,9 @@ if len(sys.argv) != 3:
     sys.exit(1)
 
 command, x = sys.argv[1:3]
+word = sys.argv[2]
+
+print(word)
 
 match command:
     case "encode":
